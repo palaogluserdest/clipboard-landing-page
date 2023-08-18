@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/palaogluserdest/clipboard-landing-page)
-- Live Site URL: [Add live site URL here](https://clipboard-landing-page-flex.netlify.app/)
+- Solution URL: [for solution](https://github.com/palaogluserdest/clipboard-landing-page)
+- Live Site URL: [to visit live page](https://clipboard-landing-page-flex.netlify.app/)
 
 ## My process
 
