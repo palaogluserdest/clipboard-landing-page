@@ -53,5 +53,5 @@ When I learn some of the responsive design in the scss structure, I will update 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/palaogluserdest)
+- Frontend Mentor - [@palaogluserdest](https://www.frontendmentor.io/profile/palaogluserdest)
 
